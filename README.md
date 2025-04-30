@@ -1,8 +1,8 @@
-#Book Recommendation System using Python
+# Book Recommendation System using Python
 
 A Python web application that helps users discover books based on popularity and user preferences. Built using Python, Flask, and scikit-learn, with a clean Bootstrap-based frontend.
 
-##Features
+## Features
 
 - **Popularity-Based Recommendations**: Recommends books with high average ratings and sufficient votes.
 - **Collaborative Filtering**: Suggests books liked by users with similar tastes using cosine similarity.
